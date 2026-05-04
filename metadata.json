@@ -1,0 +1,9 @@
+{
+  "name": "EventHivex AI",
+  "description": "Next-generation AI orchestration for premium events. From strategic planning to flawless execution.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
